@@ -1,0 +1,5 @@
+print ('='*40)
+print ('            Program python')
+print ('            Oleh : Dzaky fr')
+print ('            Kelas : PPLG 2')
+print ('='*40)
