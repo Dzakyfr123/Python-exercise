@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dzaky Fadhilah Rahmawan</h1>
 <h3 align="center">Kumusta, ako ay isang student programmer at isang baguhan na taga-disenyo mula sa Indonesia</h3>
-
-<img align="right" alt="Me" widht="400" src="https://tenor.com/id/view/mad-yuuka-stressed-yuuka-yuuka-yuuka-chan-gif-23854954">
+<img align="right" alt="Coding" width="220" height="220" src="https://tenor.com/id/view/blue-archive-yuuka-yuuka-blue-archive-gif-25243076">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=un" alt="un" /></a> </p>
 
