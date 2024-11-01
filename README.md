@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dzaky Fadhilah Rahmawan</h1>
 <h3 align="center">Saya sebagai pelajar dalam bidang progammer dan illustrator</h3>
-
+![image alt](https://github.com/Dzakyfr123/Python-exercise/blob/main/yuuka-yuuka-blue-archive.gif?raw=true)
 - 💬 Ask me about **My hobby is draw in digital**
 
 - 📫 How to reach me **dzakyfadhilahrahmawan.com**
