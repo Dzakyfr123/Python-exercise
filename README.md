@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzaky Fadhilah Rahmawan</h1>
-<h3 align="center">Kumusta, ako ay isang student programmer at isang baguhan na taga-disenyo mula sa Indonesia</h3>
-<img align="right" alt="Coding" width="220" height="220" src="https://tenor.com/id/view/blue-archive-yuuka-yuuka-blue-archive-gif-25243076">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=un" alt="un" /></a> </p>
+<h3 align="center">Saya sebagai pelajar dalam bidang progammer dan illustrator</h3>
 
 - 💬 Ask me about **My hobby is draw in digital**
 
